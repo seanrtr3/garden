@@ -1,4 +1,4 @@
-1. cherry tomatoes
+1. Merge conflict on feature1 banch
 2. Italian basil
 3. jalapenos
 4. cayenne peppers

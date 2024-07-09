@@ -1,5 +1,5 @@
 1. Main branch merge conflict
 2. Italian basil
-3. jalapenos
 4. cayenne peppers
 5. Thai basil
+6. Eggplant
